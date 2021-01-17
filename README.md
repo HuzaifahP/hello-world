@@ -1,3 +1,3 @@
-# hello-world
-for school
-i like hockey and hiking
+# hpatel202
+OPS435NAA
+Huzaifah Patel - i like hockey and hiking
